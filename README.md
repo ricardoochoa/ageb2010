@@ -1,4 +1,5 @@
-# ageb2010: Mexican Urban Basic Geostatistical Areas (AGEB) 2010
+# ageb2010
+## Mexican Urban Basic Geostatistical Areas (AGEB) 2010
 As described by INEGI, an Urban Basic Geostatistical Area (AGEB) is the territorial extent which constitutes the basic unit of the National Geostatistical Framework. AGEBs are a set of blocks (generally ranging from 1 to 50), which are bounded by streets, avenues, walkways or any other feature of easy identification in the field. They are always located within urban localities and their land use is commonly residential, industrial, services or commercial. This package contains census data (2010) for all AGEBs in Mexico in two different formats: tabular and spatial. The former was prepared to be easily plotted with ggplot2. 
 
 # Installation and loading
@@ -31,7 +32,7 @@ ggplot(data=df[order(df$order),]) + # order the data
 
 ```
 
-Give it a try!
+Want to see more? Check out the package Wiki! 
 
 
 
