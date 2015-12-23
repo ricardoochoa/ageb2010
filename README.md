@@ -7,8 +7,7 @@ devtools::install_github('ricardoochoa/ageb2010')
 load(ageb2010)
 
 # Examples of use
-Here are a couple of examples of use. First, lets plot gross population density in Mexico City (formally known as the Metropolitan Area of the Valley of Mexico). 
-
+Here is a very simple example: Lets plot **gross population density** in Mexico City (formally known as the Metropolitan Area of the Valley of Mexico)... 
 
 ```r
 # libraries
